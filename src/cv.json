@@ -40,9 +40,9 @@
       ]
     },
     {
-      "name": "Adevinta",
+      "name": "Ade",
       "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
+      "url": "https://t",
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
       "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
@@ -55,7 +55,7 @@
       "position": "Senior FrontEnd Developer",
       "startDate": "2011-03-01",
       "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
+      "summary": "Descripcion la informa.",
       "highlights": [
         "Started the company"
       ]
@@ -77,7 +77,7 @@
   "education": [
     {
       "institution": "Corporación Universitaria Autónoma de Nariño",
-      "url": "https://www.uoc.edu/portal/es/index.html",
+      "url": "https://www.uo/index.html",
       "area": "Ingeniero de Informático",
       "studyType": "Bachelor",
       "startDate": "2003-01-01",
@@ -101,7 +101,7 @@
       "name": "Certificate",
       "date": "2021-11-07",
       "issuer": "Company",
-      "url": "https://certificate.com"
+      "url": "https://com"
     }
   ],
   "publications": [
@@ -109,7 +109,7 @@
       "name": "Publication",
       "publisher": "Company",
       "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
+      "url": "httpcom",
       "summary": "Description…"
     }
   ],
@@ -256,7 +256,7 @@
         "Elige tu propia aventura",
         "En desarrollo"
       ],
-      "url": "https://mars.codes"
+      "url": "https:odes"
     },
     {
       "name": "AdventJS",
@@ -267,17 +267,17 @@
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "demos en linea"
     },
     {
-      "name": "Codember",
+      "name": "proyetosdesarrollo",
       "isActive": true,
       "description": "Juego interactivo de programación con retos y secretos",
       "highlights": [
         "+2000 usuarios activos",
         "Retos para cualquier lenguaje"
       ],
-      "url": "https://codember.dev"
+      "url": "demos en lineas://proyetosdesarrollo.dev"
     },
     {
       "name": "codi.link",
@@ -287,8 +287,8 @@
         "100k visitas al mes",
         "Desarrollado por la comunidad"
       ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "url": "demos en lineas://codi.link",
+      "github": "demos en lineas:/nk"
     },
     {
       "name": "Pruebas Técnicas",
@@ -298,17 +298,17 @@
         "100% gratuito",
         "+500 soluciones de la comunidad"
       ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "url": "demos en lineas://pruebastecnicas.com",
+      "github": "www."
     },
     {
-      "name": "miduConf",
+      "name": "ponencia",
       "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
       "highlights": [
         "+15k tickets repartidos",
         "+50k espectadores en directo"
       ],
-      "url": "https://miduconf.com"
+      "url": "demos en lineas://paginaweb.com"
     }
   ]
 }
