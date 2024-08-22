@@ -249,7 +249,7 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "codes",
       "isActive": true,
       "description": "Historia interactiva con retos de programación para viajar a Marte",
       "highlights": [
@@ -259,11 +259,11 @@
       "url": "https:odes"
     },
     {
-      "name": "AdventJS",
+      "name": "programacion",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Retos",
       "highlights": [
-        "+1 millón de visitas",
+        "millón de visitas",
         "Multidioma",
         "JavaScript & TypeScript"
       ],
@@ -280,7 +280,7 @@
       "url": "demos en lineas://proyetosdesarrollo.dev"
     },
     {
-      "name": "codi.link",
+      "name": "link",
       "isActive": true,
       "description": "Playground de código HTML, CSS y JavaScript para compartir",
       "highlights": [
@@ -296,7 +296,7 @@
       "description": "Lista de pruebas técnicas de empresas para practicar programación",
       "highlights": [
         "100% gratuito",
-        "+500 soluciones de la comunidad"
+        "+500"
       ],
       "url": "demos en lineas://pruebastecnicas.com",
       "github": "www."
