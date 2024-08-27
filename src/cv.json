@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Raul Peña Perez",
+    "name": "Victor Miguel Matabanchoy",
     "label": "Developer & Creador 3D",
     "image": "https://avatars.githubusercontent.com/u/25549072?s=400&u=e1fc953331d80aafca58e1ab46b13aad8646acac&v=4",
     "email": "tatenokay@gmail.com",
@@ -35,9 +35,7 @@
       "startDate": "2021-01-01",
       "endDate": null,
       "summary": "Espectador",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Ade",
@@ -46,9 +44,7 @@
       "startDate": "2016-06-01",
       "endDate": "2022-09-01",
       "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     },
     {
       "name": "Hubii",
@@ -56,9 +52,7 @@
       "startDate": "2011-03-01",
       "endDate": "2016-05-01",
       "summary": "Descripcion la informa.",
-      "highlights": [
-        "Started the company"
-      ]
+      "highlights": ["Started the company"]
     }
   ],
   "volunteer": [
@@ -69,9 +63,7 @@
       "startDate": "2012-01-01",
       "endDate": "2013-01-01",
       "summary": "Description…",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
@@ -83,9 +75,7 @@
       "startDate": "2003-01-01",
       "endDate": "2009-01-01",
       "score": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL"
-      ]
+      "courses": ["DB1101 - Basic SQL"]
     }
   ],
   "awards": [
@@ -117,29 +107,17 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -164,12 +142,7 @@
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Backend",
-        "JavaScript",
-        "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
@@ -184,11 +157,7 @@
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
@@ -214,12 +183,7 @@
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -235,10 +199,7 @@
   "interests": [
     {
       "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
+      "keywords": ["Ferrets", "Unicorns"]
     }
   ],
   "references": [
@@ -252,10 +213,7 @@
       "name": "codes",
       "isActive": true,
       "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
-      ],
+      "highlights": ["Elige tu propia aventura", "En desarrollo"],
       "url": "https:odes"
     },
     {
@@ -273,20 +231,14 @@
       "name": "proyetosdesarrollo",
       "isActive": true,
       "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
+      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
       "url": "demos en lineas://proyetosdesarrollo.dev"
     },
     {
       "name": "link",
       "isActive": true,
       "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
+      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
       "url": "demos en lineas://codi.link",
       "github": "demos en lineas:/nk"
     },
@@ -294,20 +246,14 @@
       "name": "Pruebas Técnicas",
       "isActive": true,
       "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500"
-      ],
+      "highlights": ["100% gratuito", "+500"],
       "url": "demos en lineas://pruebastecnicas.com",
       "github": "www."
     },
     {
       "name": "ponencia",
       "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
+      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
       "url": "demos en lineas://paginaweb.com"
     }
   ]
